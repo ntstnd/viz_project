@@ -1,0 +1,90 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Logs
+*.log
+
+# ===== IDE / Editors =====
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+
+# ===== OS Files =====
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ===== Jupyter =====
+.ipynb_checkpoints
+*.ipynb_save
+
+# ===== Data & Images (если не нужно хранить локальные файлы) =====
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# ===== Environment variables =====
+.env
+.env.*
+*.bak
+*.tmp
+
+
