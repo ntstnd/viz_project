@@ -36,8 +36,8 @@ venv\Scripts\activate
 ### 3) Установить зависимости
 pip install -r requirements.txt
 
-### 4) Запустить проект
-python main.py
+### 4) Импортировать модуль в main
+from vm_project import visualize
 ```
 
 ### 📂 Структура проекта
